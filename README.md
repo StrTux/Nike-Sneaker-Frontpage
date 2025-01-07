@@ -10,3 +10,6 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/itsmeashish07/Nike-Sneaker-Frontpage.git
+
+
+    added  somthing new  in this  ---
